@@ -12,3 +12,5 @@ Let $A \in \C^{n \times n} (\text {or } \R^{n \times n})$. An ==eigenvalue== of 
 
 
 
+
+
